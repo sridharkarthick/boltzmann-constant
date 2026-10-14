@@ -1,4 +1,4 @@
-# Literature & Foundational References
+# Literature & References
 
 ### 1. Shockley (1949)
 - **Title:** *The Theory of p-n Junctions in Semiconductors and p-n Junction Transistors*
