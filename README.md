@@ -92,7 +92,7 @@ Safely unmount or eject the USB drive from your PC.
 
 ---
 
-## 7. Offline Installation on Raspberry Pi 3B+
+## 3. Offline Installation on Raspberry Pi 3B+
 
 Plug the USB flash drive into one of the USB ports on the Raspberry Pi.
 
