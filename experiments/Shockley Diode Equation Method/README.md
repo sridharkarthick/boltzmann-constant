@@ -1,7 +1,4 @@
-### Diode I–V Characteristic Method
-**Hardware:** Raspberry Pi 3B+ · Keithley 2450 SMU · ADS1115 · NTC Thermistor · DPDT Switch · HDMI Monitor
-
----
+# Boltzmann's Constant: Shockley Diode Equation Method
 
 ## 1. Apparatus
 
