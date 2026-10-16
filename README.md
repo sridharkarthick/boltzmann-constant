@@ -1,6 +1,6 @@
 # Measurement of Boltzmann's Constant
 
-## 6. Raspberry Pi 3B+ SD Card Setup
+## 1. Raspberry Pi 3B+ SD Card Setup
 
 Follow these steps to flash the initial operating system image onto your microSD card:
 
@@ -20,9 +20,9 @@ Follow these steps to flash the initial operating system image onto your microSD
 
 ---
 
-## 7. Generating the Offline Bundle (in WSL)
+## 2. Generating the Offline Bundle (in WSL)
 
-Because the target Raspberry Pi operates offline in the laboratory, all runtime libraries, development headers, compiler toolchains, and Python packages are fetched in advance using an x86 Windows Subsystem for Linux (WSL) host.
+This section covers downloading the required runtime libraries, development headers, GCC toolchains, and Python packages using Windows Subsystem for Linux (WSL), copying them to an external drive, and installing them on the Raspberry Pi. By pre-packaging all dependencies on a host PC, the Raspberry Pi operates without requiring an internet connection of its own.
 
 ### What `scripts/get_rpi_bundle.sh` Downloads
 
